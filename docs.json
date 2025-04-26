@@ -2,12 +2,17 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "cheap'ai docs",
+  "description": "cheap'ai on average save you 10% on your LLM costs",
   "colors": {
     "primary": "#FF3131",
     "light": "#FF3131",
     "dark": "#FF3131"
   },
   "favicon": "/favicon.svg",
+  "appearance": {
+    "strict": true,
+    "default": "light"
+  },
   "navigation": {
     "tabs": [
       {
