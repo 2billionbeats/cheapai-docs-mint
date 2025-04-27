@@ -40,12 +40,6 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@buycheap.ai"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
